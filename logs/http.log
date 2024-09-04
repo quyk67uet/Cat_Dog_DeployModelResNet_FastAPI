@@ -1,0 +1,8 @@
+2024-09-04 12:23:53,314 - C:\Users\admin\Desktop\Cat_Dog_Classify_Resnet_FastAPI\middleware\http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.00s
+2024-09-04 12:23:56,042 - C:\Users\admin\Desktop\Cat_Dog_Classify_Resnet_FastAPI\middleware\http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
+2024-09-04 12:23:57,766 - C:\Users\admin\Desktop\Cat_Dog_Classify_Resnet_FastAPI\middleware\http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.48s
+2024-09-04 12:24:09,790 - C:\Users\admin\Desktop\Cat_Dog_Classify_Resnet_FastAPI\middleware\http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.32s
+2024-09-04 12:24:47,975 - C:\Users\admin\Desktop\Cat_Dog_Classify_Resnet_FastAPI\middleware\http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.03s
+2024-09-04 12:24:54,363 - C:\Users\admin\Desktop\Cat_Dog_Classify_Resnet_FastAPI\middleware\http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.03s
+2024-09-04 12:25:04,630 - C:\Users\admin\Desktop\Cat_Dog_Classify_Resnet_FastAPI\middleware\http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.03s
+2024-09-04 12:25:37,969 - C:\Users\admin\Desktop\Cat_Dog_Classify_Resnet_FastAPI\middleware\http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.07s
