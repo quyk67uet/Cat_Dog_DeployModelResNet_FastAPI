@@ -15,30 +15,7 @@ This API allows users to upload an image and receive a prediction on whether the
 - Logging middleware for request tracking
 - Pydantic models for input/output validation
 
-## Project Structure
+## How to run
 
-root/
-├── config/
-│   ├── catdog_cfg.py
-│   └── logging_cfg.py
-├── logs/
-├── middleware/
-│   ├── init.py
-│   ├── cors.py
-│   └── http.py
-├── models/
-│   ├── weights/
-│   │   └── catdog_weights.pt
-│   ├── catdog_model.py
-│   └── catdog_predictor.py
-├── routes/
-│   ├── base.py
-│   └── catdog_route.py
-├── schemas/
-│   └── catdog_schema.py
-├── utils/
-│   └── logger.py
-├── app.py
-├── requirements.txt
-├── server.py
-└── README.md
+- pip install requirements.txt
+- python server.py
